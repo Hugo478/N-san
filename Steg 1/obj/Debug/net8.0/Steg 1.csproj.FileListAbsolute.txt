@@ -1,0 +1,14 @@
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\bin\Debug\net8.0\Steg 1.exe
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\bin\Debug\net8.0\Steg 1.deps.json
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\bin\Debug\net8.0\Steg 1.runtimeconfig.json
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\bin\Debug\net8.0\Steg 1.dll
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\bin\Debug\net8.0\Steg 1.pdb
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\Steg 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\Steg 1.AssemblyInfoInputs.cache
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\Steg 1.AssemblyInfo.cs
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\Steg 1.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\Steg 1.dll
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\refint\Steg 1.dll
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\Steg 1.pdb
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\Steg 1.genruntimeconfig.cache
+C:\Users\hugo.sundstrom\Documents\Näsan\Steg 1\obj\Debug\net8.0\ref\Steg 1.dll

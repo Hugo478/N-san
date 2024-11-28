@@ -1,0 +1,15 @@
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\bin\Debug\net8.0\Setg 3.exe
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\bin\Debug\net8.0\Setg 3.deps.json
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\bin\Debug\net8.0\Setg 3.runtimeconfig.json
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\bin\Debug\net8.0\Setg 3.dll
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\bin\Debug\net8.0\Setg 3.pdb
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.AssemblyInfoInputs.cache
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.AssemblyInfo.cs
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.sourcelink.json
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.dll
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\refint\Setg 3.dll
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.pdb
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\Setg 3.genruntimeconfig.cache
+C:\Users\hugo.sundstrom\Documents\Näsan\Setg 3\obj\Debug\net8.0\ref\Setg 3.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Steg 2\\Steg 2.csproj": {}
+    "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Setg 3\\Setg 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Steg 2\\Steg 2.csproj": {
+    "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Setg 3\\Setg 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Steg 2\\Steg 2.csproj",
-        "projectName": "Steg 2",
-        "projectPath": "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Steg 2\\Steg 2.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Setg 3\\Setg 3.csproj",
+        "projectName": "Setg 3",
+        "projectPath": "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Setg 3\\Setg 3.csproj",
         "packagesPath": "C:\\Users\\hugo.sundstrom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Steg 2\\obj\\",
+        "outputPath": "C:\\Users\\hugo.sundstrom\\Documents\\Näsan\\Setg 3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
